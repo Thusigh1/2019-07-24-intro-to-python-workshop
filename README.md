@@ -47,6 +47,6 @@ In this repository you will find all the workshop materials used during the two 
    [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
    [Launch Binder MQ-SWC](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
-   [Launch Binder](https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
+   [Launch Binder](https://mybinder.org/v2/gh/Thusigh1/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb)
    
    
